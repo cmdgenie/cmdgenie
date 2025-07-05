@@ -1,0 +1,48 @@
+{
+    "name": "cmdgenie",
+    "version": "1.0.0",
+    "description": "AI-powered command line tool that generates commands from natural language prompts",
+    "main": "index.js",
+    "bin": {
+        "cmdgenie": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "cli-generator",
+        "cmd-gpt",
+        "gpt-cli",
+        "ai-cli",
+        "cli",
+        "command",
+        "ai",
+        "gpt",
+        "natural-language",
+        "terminal",
+        "automation"
+    ],
+    "author": "Pranav Ubarhande pranavubarhande.business@gmail.com",
+    "license": "MIT",
+    "engines": {
+        "node": ">=14.0.0"
+    },
+    "os": [
+        "darwin",
+        "linux",
+        "win32"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cmdgenie/cmdgenie.git"
+    },
+    "bugs": {
+        "url": "https://github.com/cmdgenie/cmdgenie/issues"
+    },
+    "homepage": "https://cmdgenie.github.io/cmdgenie/",
+    "files": [
+        "index.js",
+        "README.md",
+        "LICENSE"
+    ]
+}
